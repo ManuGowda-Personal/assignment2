@@ -161,17 +161,17 @@ python assignment2.py
 
 ---
 
-## 🎯 Conclusion
+## 📊 Output Screenshot
 
-This project demonstrates how to build a robust and modular LLM pipeline using LangChain’s LCEL framework with routing, branching, and fallback handling.
+![Output](assignment2/Output1.png)
+
+![Output](assignment2/output2.png)
 
 ---
 
-## 📊 Output Screenshot
+## 🎯 Conclusion
 
-![Output](images/Output1.png)
-
-![Output](images/output2.png)
+This project demonstrates how to build a robust and modular LLM pipeline using LangChain’s LCEL framework with routing, branching, and fallback handling.
 
 ---
 
