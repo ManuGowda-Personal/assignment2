@@ -163,9 +163,9 @@ python assignment2.py
 
 ## 📊 Output Screenshot
 
-![Output](assignment2/Output1.png)
+![Output](Output1.png)
 
-![Output](assignment2/output2.png)
+![Output](output2.png)
 
 ---
 
